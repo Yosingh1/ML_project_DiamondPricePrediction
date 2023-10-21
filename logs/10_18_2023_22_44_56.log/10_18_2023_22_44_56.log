@@ -1,0 +1,3 @@
+[ 2023-10-18 22:44:56,804 ] 24 root - INFO - Started Data Ingestion
+[ 2023-10-18 22:44:56,902 ] 29 root - INFO - Dataset read as pandas Dataframe
+[ 2023-10-18 22:44:56,903 ] 46 root - INFO - Exception occured at Data Ingestion stage
